@@ -1,0 +1,61 @@
+body{
+  background-color: black;
+  padding: auto;
+}
+h1{
+   margin-left: 15rem;
+   justify-content: center;
+
+}
+
+.contaier{
+  padding: 5px;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 100vh;
+  background-color: white;
+  margin-left: 19rem;
+}
+.input{
+  justify-content: center;
+  align-items: center;
+  margin-left: 10rem;
+  padding-left: 45px;
+
+}
+#inp{
+  width: 17rem;
+  height: 2rem;
+  border-radius: 1px ;
+  font-size: 1rem;
+
+}
+
+#btn{
+  width: 5rem;
+  height: 2.4rem;
+  background-color: gray;
+  border-radius: none;
+  font-size: 1.4rem;
+  cursor: pointer;
+
+}
+.text ul{
+  position: relative;
+  background-color: gray;
+  color: white;
+  text-align: left;
+  font-size: 19px;
+  height: 1.9rem;
+}
+.text ul i{
+  position: absolute; /* parent ke pass chla jaega*/
+  right: 10px;
+  cursor: pointer;
+  padding: 3px;
+  color: white;
+  margin: 5px, 5px;
+  margin-bottom: 2px;
+
+}
